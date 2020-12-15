@@ -7,7 +7,7 @@ Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Gu
 ![Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)](/img/hlurb-qgis-style.png)
 
 
-The styles are also available at [QGIS Style repository].(https://plugins.qgis.org/styles/)
+The styles are also available at [QGIS Style repository](https://plugins.qgis.org/styles/) (pending approval).
 
 
 Pull Requests and Updates are welcome especially if you have a more updated version of the guidebook.
