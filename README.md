@@ -1,7 +1,7 @@
 # QGIS Styles for HLURB Land Use and Zoning Color Codes
 
 **styles** folder contains:
-**hlurb-luc-color-coding-2014.xml** - Styles based on Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)
+* **hlurb-luc-color-coding-2014.xml** - Styles based on Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)
 
 Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)
 ![Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)](/img/hlurb-qgis-style.png)
