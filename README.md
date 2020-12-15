@@ -8,7 +8,7 @@ Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Gu
 
 You can download the style XML file and import it in qgis or import from URL using: https://raw.githubusercontent.com/benhur07b/qgis-style-hlurb-land-use-zoning-color-codes/main/styles/hlurb-luc-color-coding-2014.xml
 
-The styles are also available at [QGIS Style repository](https://plugins.qgis.org/styles/) (pending approval).
+The styles are also available at [QGIS Style repository](https://plugins.qgis.org/styles/62/).
 
 Pull Requests and Updates are welcome especially if you have a more updated version of the guidebook.
 
