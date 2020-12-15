@@ -3,8 +3,8 @@
 **styles** folder contains:
 **hlurb-luc-color-coding-2014.xml** - Styles based on Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)
 
-Styles based on Land Use Categories and Color Coding Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)
-![Styles based on Land Use Categories and Color Coding Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)](/img/hlurb-qgis-style.png)
+Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)
+![Styles based on Land Use Categories and Color Coding in Annex 1 of HLURB CLUP Guidebook Vol. 3 (2014)](/img/hlurb-qgis-style.png)
 
 
 The styles are also available at [QGIS Style repository](https://plugins.qgis.org/styles/)
